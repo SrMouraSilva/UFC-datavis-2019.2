@@ -11,6 +11,16 @@
 [index09.html](basic/index09.html)<br>
 [index10.html](basic/index10.html)<br>
 
+
+## Aula do dia 04/09/2019
+
+[notebook.html](d3-intro/notebook.html)<br>
+
+### Material suplementar
+
+[index01.html](material-aula/2019-09-04/full-notebook.html)<br>
+[index01.html](material-aula/2019-09-04/cell.html)<br>
+
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
