@@ -1,6 +1,6 @@
 ## Aula do dia 11/09/2019
 
-[scatterplot.html](basic/d3-scale/scatterplot.html)<br>
+[scatterplot.html](d3-scale/scatterplot.html)<br>
 
 ## Aula do dia 09/09/2019
 
