@@ -1,6 +1,6 @@
 ## Aula do dia 25/09/2019
 
-TODO
+[index.html](d3_crossfilter_2/index.html)
 
 ## Aula do dia 23/09/2019
 
