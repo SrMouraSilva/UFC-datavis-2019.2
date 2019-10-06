@@ -3,7 +3,7 @@
 Sem exercício
 
 
-## Aula do dia 305/09/2019
+## Aula do dia 30/09/2019
 
 [index.html](d3_leaflet/index.html)
 
