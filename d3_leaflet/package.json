@@ -1,0 +1,14 @@
+{
+  "name": "@srmourasilva/visualizando-crimes-de-chicago",
+  "main": "d/3d8e8fad2fc7d9aa.js",
+  "version": "434.0.0",
+  "homepage": "https://observablehq.com/@srmourasilva/visualizando-crimes-de-chicago",
+  "author": {
+    "name": "Paulo Mateus",
+    "url": "https://observablehq.com/@srmourasilva"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

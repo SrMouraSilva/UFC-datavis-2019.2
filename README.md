@@ -1,3 +1,13 @@
+## Aula do dia 02/10/2019
+
+Sem exercício
+
+
+## Aula do dia 305/09/2019
+
+[index.html](d3_leaflet/index.html)
+
+
 ## Aula do dia 25/09/2019
 
 [index.html](d3_crossfilter_2/index.html)
