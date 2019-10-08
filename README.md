@@ -1,3 +1,8 @@
+## Aula do dia 07/10/2019
+
+Sem exercício
+
+
 ## Aula do dia 02/10/2019
 
 Sem exercício
@@ -5,8 +10,8 @@ Sem exercício
 
 ## Aula do dia 30/09/2019
 
-[Crimes em Chicago](d3_leaflet/visualizando-crimes-de-chicago/index.html)
-[D3 com Crossfilter e DC.js e Leaflet](d3_leaflet/d3-com-crossfilter-e-dc-js-e-leaflet/index.html)
+* [Crimes em Chicago](d3_leaflet/visualizando-crimes-de-chicago/index.html)
+* [D3 com Crossfilter e DC.js e Leaflet](d3_leaflet/d3-com-crossfilter-e-dc-js-e-leaflet/index.html)
 
 ## Aula do dia 25/09/2019
 
