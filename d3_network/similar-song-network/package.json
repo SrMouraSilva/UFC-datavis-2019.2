@@ -1,0 +1,14 @@
+{
+  "name": "@srmourasilva/similar-song-network",
+  "main": "d/e701d5f70533144d.js",
+  "version": "160.0.0",
+  "homepage": "https://observablehq.com/@srmourasilva/similar-song-network",
+  "author": {
+    "name": "Paulo Mateus",
+    "url": "https://observablehq.com/@srmourasilva"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

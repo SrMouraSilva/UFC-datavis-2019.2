@@ -1,3 +1,9 @@
+## Aula do dia 09/10/2019
+
+* [Exercício 3 - Similar Songs](d3_network/similar-song-network/index.html)
+* [Exercício 4 - Les miserables](d3_network/les-miserables/index.html)
+
+
 ## Aula do dia 07/10/2019
 
 Sem exercício
@@ -10,8 +16,8 @@ Sem exercício
 
 ## Aula do dia 30/09/2019
 
-* [Crimes em Chicago](d3_leaflet/visualizando-crimes-de-chicago/index.html)
 * [D3 com Crossfilter e DC.js e Leaflet](d3_leaflet/d3-com-crossfilter-e-dc-js-e-leaflet/index.html)
+* [Crimes em Chicago](d3_leaflet/visualizando-crimes-de-chicago/index.html)
 
 ## Aula do dia 25/09/2019
 
