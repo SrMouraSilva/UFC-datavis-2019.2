@@ -1,3 +1,31 @@
+## Aula do dia 30/10/2019
+
+Recesso: Congresso de Dataviz
+
+## Aula do dia 28/10/2019
+
+Ponto Facultativo - Feliz dia do Servidor Público!
+
+## Aula do dia 23/10/2019 - Manipulando visões em D3
+
+* [Exercício 1 - Taxa de desemprego nos EUA em agosto de 2016 (Parte 2)](d3_interactive/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2/index.html)
+* [Exercício 2 - D3 com Crossfilter, DC.js e Leaflet (Parte 2)](d3_interactive/d3-com-crossfilter-dc-js-e-leaflet-parte-2/index.html)
+
+## Aula do dia 21/10/2019
+
+Sem exercício
+
+## Aula do dia 16/10/2019
+
+**Ainda não realizados**
+
+* Exercício 1 - d3 color
+* Exercício 2 - d3 color
+
+## Aula do dia 16/10/2019
+
+Sem execício - Cores
+
 ## Aula do dia 09/10/2019
 
 * [Exercício 3 - Similar Songs](d3_network/similar-song-network/index.html)
