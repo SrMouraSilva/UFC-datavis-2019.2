@@ -10,7 +10,7 @@ This repository contains the supplement material for "Designing Animated Transit
   - experiment-ui : Screenshots of the user study interfaces.
 
 - main-exp : Analysis scripts, stimuli, and experiment web page screenshots for the main-exp study
-  - stimuli : Html file that loading experiment stimuli.
+  - [stimuli](https://srmourasilva.github.io/datavis-course/paper/main-exp/stimuli/) : Html file that loading experiment stimuli.
   - experiment-ui : Screenshots of the user study interfaces.
   - analysis
     - rationales : Tagged rationales of Rank Task and description for top labels.
